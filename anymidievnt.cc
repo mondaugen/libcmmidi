@@ -1,5 +1,5 @@
 /* Copyright 2013 Nicholas Esterer. All Rights Reserved. */
-#include <cm/midi/anymidievnt.h> 
+#include <inc/anymidievnt.h> 
 
 AnyMidiEvnt::AnyMidiEvnt(double time_in_sec, char type, char data1)
 {

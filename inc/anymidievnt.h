@@ -7,7 +7,7 @@
  * don't want to yet (although that method is much preferred in the long term).
  *
  */
-#include <cm/midi/midievnt.h> 
+#include <inc/midievnt.h> 
 
 class AnyMidiEvnt: public MidiEvnt {
     protected:

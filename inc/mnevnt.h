@@ -9,7 +9,7 @@
  * the MidiEvnt class to add its data to a smf_track.
  */
 
-#include <cm/midi/midievnt.h> 
+#include <inc/midievnt.h> 
 
 class MNEvnt: public MidiEvnt {
     protected:

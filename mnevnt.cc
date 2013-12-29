@@ -2,7 +2,7 @@
 /*
  * Midi Note event class.
  */
-#include <cm/midi/mnevnt.h>
+#include <inc/mnevnt.h>
 
 MNEvnt::MNEvnt() { }
 

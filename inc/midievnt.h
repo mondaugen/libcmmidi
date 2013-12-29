@@ -2,10 +2,9 @@
 #ifndef MIDIEVNT_H
 #define MIDIEVNT_H 
 #include <smf.h>
-#include <cm/screvnt.h> 
-#include <cm/midi/midi_msg.h> 
+#include <inc/midi_msg.h> 
 
-class MidiEvnt: public ScrEvnt {
+class MidiEvnt {
     protected:
 	double time_in_sec;
 	long int time_in_pulses;

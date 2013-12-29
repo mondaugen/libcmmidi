@@ -1,5 +1,5 @@
 /* Copyright 2013 Nicholas Esterer. All Rights Reserved. */
-#include <cm/midi/midi_msg.h>
+#include <inc/midi_msg.h>
 
 int
 cm_midi_msg_sprintf(char *buf, int status, int channel, int data1, int data2)

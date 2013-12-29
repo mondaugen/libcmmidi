@@ -3,7 +3,7 @@
  * Midi event interface.
  */
 
-#include <cm/midi/midievnt.h> 
+#include <inc/midievnt.h> 
 
 /* calculate this structs time_in_sec from frames per second and tempo
  * in bpm */
